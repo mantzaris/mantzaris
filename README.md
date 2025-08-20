@@ -14,11 +14,15 @@ These tested tools have been peer-reviewed by the Journal of Open Source Softwar
   * tip*: `using Pkg; Pkg.add("LMDiskANN")` Ideal for large datasets and speed where transactions are not needed.
  
 - **[KeemenaPreprocessing.jl](https://github.com/mantzaris/KeemenaPreprocessing.jl/)**: Preprocessing for text data: cleaning, normalization, vectorization, tokenization and more. (in General registry)
+  
    ![Stars](https://img.shields.io/github/stars/mantzaris/KeemenaPreprocessing.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/KeemenaPreprocessing.jl)
+
   *tip*:  `using Pkg; Pkg.add("KeemenaPreprocessing")`: Great for many text preprocessing tasks and also allows it to perform with controlled memory when processing large text corpora. 
 
 - **[BenchmarkDataNLP.jl](https://github.com/mantzaris/BenchmarkDataNLP.jl)**: Generates synthetic text (e.g., via Context-Free Grammars) with tunable complexity to test NLP methods like LLMs.
+
   ![Stars](https://img.shields.io/github/stars/mantzaris/BenchmarkDataNLP.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/BenchmarkDataNLP.jl)
+
   *Newcomer tip*: Parameterize complexity to stress-test your models on less complex data before going into more complex natural corpora.
 
 
