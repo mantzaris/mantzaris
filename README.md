@@ -7,11 +7,15 @@ These tested tools have been peer-reviewed by the Journal of Open Source Softwar
 
 - **[WunDeeDB.jl](https://github.com/mantzaris/WunDeeDB.jl)**: A zero-config embedded vector database with WAL support. Useful for lightweight AI/ML embeddings. Ideal for vector search that scaled with transactions (which come with a cost for the confidence in data integrity) (JOSS-reviewed; in General registry)  
   ![Stars](https://img.shields.io/github/stars/mantzaris/WunDeeDB.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/WunDeeDB.jl)  
-  *tip*: `using Pkg; Pkg.add("WunDeeDB")`—try the examples for instant vector search.
+  *tip*: `using Pkg; Pkg.add("WunDeeDB")`-try the examples for instant vector search.
 
 - **[LMDiskANN.jl](https://github.com/mantzaris/LMDiskANN.jl)**: Julia implementation of Low Memory Disk ANN for efficient nearest-neighbor searches. (JOSS-reviewed; in General registry)  
   ![Stars](https://img.shields.io/github/stars/mantzaris/LMDiskANN.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/LMDiskANN.jl)  
-  * tip*: `using Pkg; Pkg.add("LMDiskANN")` Ideal for large datasets and speed where transactions are not needed. 
+  * tip*: `using Pkg; Pkg.add("LMDiskANN")` Ideal for large datasets and speed where transactions are not needed.
+ 
+- **[KeemenaPreprocessing.jl](https://github.com/mantzaris/KeemenaPreprocessing.jl/)**: Preprocessing for text data: cleaning, normalization, vectorization, tokenization and more. (in General registry)
+   ![Stars](https://img.shields.io/github/stars/mantzaris/KeemenaPreprocessing.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/KeemenaPreprocessing.jl)
+  *tip*:  `using Pkg; Pkg.add("KeemenaPreprocessing")`: Great for many text preprocessing tasks and also allows it to perform with controlled memory when processing large text corpora. 
 
 - **[BenchmarkDataNLP.jl](https://github.com/mantzaris/BenchmarkDataNLP.jl)**: Generates synthetic text (e.g., via Context-Free Grammars) with tunable complexity to test NLP methods like LLMs.
   ![Stars](https://img.shields.io/github/stars/mantzaris/BenchmarkDataNLP.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/BenchmarkDataNLP.jl)
