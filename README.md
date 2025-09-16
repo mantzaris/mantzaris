@@ -33,7 +33,7 @@ Two finished desktop apps for media tagging and organization. Built with Electro
 - **[Tagasaurus](https://github.com/mantzaris/Tagasaurus)**: Tag your planet with semantic search and machine learning. Search and annotate your media files with ease keeping all the data locally.
   ![Stars](https://img.shields.io/github/stars/mantzaris/Tagasaurus) ![Forks](https://img.shields.io/github/forks/mantzaris/Tagasaurus)  
   
-- **[TagasaurusLegacy](https://github.com/mantzaris/TagasaurusLegacy)**: The original "Tag your Planet" app—gateway to your semantic multiverse. Here memes and emotions take a first place position in search with specific features to allow for users to search for the impact of memes on certain keywords by utilizing a bi-partite graph.
+- **[TagasaurusTagasaurusMemetic](https://github.com/mantzaris/TagasaurusMemetic)**: The original "Tag your Planet" app—gateway to your semantic multiverse. Here memes and emotions take a first place position in search with specific features to allow for users to search for the impact of memes on certain keywords by utilizing a bi-partite graph.
   ![Stars](https://img.shields.io/github/stars/mantzaris/TagasaurusLegacy) ![Forks](https://img.shields.io/github/forks/mantzaris/TagasaurusLegacy)
 
 
