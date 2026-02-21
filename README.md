@@ -17,7 +17,13 @@ These tested tools have been peer-reviewed by the Journal of Open Source Softwar
   
    ![Stars](https://img.shields.io/github/stars/mantzaris/KeemenaPreprocessing.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/KeemenaPreprocessing.jl)
 
-  *tip*:  `using Pkg; Pkg.add("KeemenaPreprocessing")`: Great for many text preprocessing tasks and also allows it to perform with controlled memory when processing large text corpora. 
+  *tip*:  `using Pkg; Pkg.add("KeemenaPreprocessing")`: Great for many text preprocessing tasks and also allows it to perform with controlled memory when processing large text corpora.
+
+- **[KeemenaSubwords.jl](https://github.com/mantzaris/KeemenaSubwords.jl)**: Julia-native subword tokenization library supporting BPE, WordPiece, Unigram, SentencePiece-style models, and compatibility with common tokenizer formats. Designed for correctness, reproducibility, and alignment with modern LLM workflows. (in General registry)
+
+  ![Stars](https://img.shields.io/github/stars/mantzaris/KeemenaSubwords.jl) ![Forks](https://img.shields.io/github/forks/mantzaris/KeemenaSubwords.jl)
+
+  *tip*: `using Pkg; Pkg.add("KeemenaSubwords")` — Load pretrained tokenizers or train your own for GPT-style or transformer-based pipelines.
 
 - **[BenchmarkDataNLP.jl](https://github.com/mantzaris/BenchmarkDataNLP.jl)**: Generates synthetic text (e.g., via Context-Free Grammars) with tunable complexity to test NLP methods like LLMs.
 
