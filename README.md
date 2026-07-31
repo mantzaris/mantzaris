@@ -168,9 +168,6 @@ View my complete [JOSS author page](https://joss.theoj.org/papers/by/Alexander%2
 
 Contributions, issue reports, documentation improvements, and reproducibility checks are welcome.
 
-- Star repositories that are useful to your work.
 - Open issues for bugs or concrete feature proposals.
 - Submit focused pull requests with tests and documentation.
 - Cite the associated software paper when using a JOSS-published package.
-
-Thanks for visiting.
